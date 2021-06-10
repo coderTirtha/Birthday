@@ -1,0 +1,11 @@
+.birthday {
+    background: url(birthday.gif) no-repeat;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding-top: 15%;
+    padding-bottom: 5%;
+    font-family: Brush Script MT;
+    font-size: 200%;
+}
